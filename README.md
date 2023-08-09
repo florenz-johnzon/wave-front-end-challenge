@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Wave-Customer Fe-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Allows users to view and edit the customer data.
 
 ## Available Scripts
 
